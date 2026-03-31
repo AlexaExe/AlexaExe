@@ -125,6 +125,9 @@ class AlexaExe:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexaExe/AlexaExe/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<br/>
+
+<!-- Frase especial -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=footer&text=%22Lo%20que%20con%20amor%20se%20construye%20tiene%20vida...%22%20%F0%9F%8C%B1%E2%9C%A8&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=—%20for%20Elior&descSize=14&descAlignY=78&descFontColor=c9b8ff" />
 
 </div>
